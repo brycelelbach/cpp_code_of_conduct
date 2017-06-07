@@ -23,16 +23,16 @@ case ${EVENT} in
     cppnow)
         CONFERENCE='C++Now'
         COMMUNITY='C++ and Boost'
-        COC_TEAM_FIRST_NAMES='Jon, Bryce and/or Jackie'
-        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and/or Jackie Kay'
+        COC_TEAM_FIRST_NAMES='Jon, Bryce and\/or Jackie'
+        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Bryce Adelstein Lelbach (Program Chair) and\/or Jackie Kay'
         COC_DECISION_MAKERS='Jon'
         COC_EMAIL='[security@cppnow.org](mailto:security@cppnow.org)'
         ;;
     cppcon)
         CONFERENCE='CppCon'
         COMMUNITY='C++'
-        COC_TEAM_FIRST_NAMES='Jon, Herb, Bryce, Jackie and/or Titus'
-        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Herb Sutter (Standard C++ Foundation Advisor), Jackie Kay and/or Titus Winters'
+        COC_TEAM_FIRST_NAMES='Jon, Herb, Bryce, Jackie and\/or Titus'
+        COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Herb Sutter (Standard C++ Foundation Advisor), Jackie Kay and\/or Titus Winters'
         COC_DECISION_MAKERS='Jon and Herb'
         COC_EMAIL='[security@cppcon.org](mailto:security@cppcon.org)'
         ;;
