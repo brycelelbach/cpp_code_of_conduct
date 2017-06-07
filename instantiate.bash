@@ -34,7 +34,7 @@ case ${EVENT} in
         COC_TEAM_FIRST_NAMES='Jon, Herb, Bryce, Jackie and\/or Titus'
         COC_TEAM_FULL_NAMES='Jon Kalb (Conference Chair), Herb Sutter (Standard C++ Foundation Advisor), Jackie Kay and\/or Titus Winters'
         COC_DECISION_MAKERS='Jon and Herb'
-        COC_EMAIL='[security@cppcon.org](mailto:security@cppcon.org)'
+        COC_EMAIL='[help@cppcon.org](mailto:help@cppcon.org)'
         ;;
     *)
         echo "ERROR: Unknown event '${EVENT}'"
